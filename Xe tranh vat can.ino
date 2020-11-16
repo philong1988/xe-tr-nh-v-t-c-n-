@@ -63,8 +63,8 @@ action =4 quay phải  action =5 rẽ trái
 action =6 rẽ phải  
 action =7 rẽ lùi trái  
 action =8 rẽ lùi phải   
-
-*/  switch (action)  
+*/ 
+ switch (action)  
 {
     
 case 0:// không di chuyển      
