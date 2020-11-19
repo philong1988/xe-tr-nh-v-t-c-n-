@@ -1,7 +1,7 @@
 #include <Servo.h>          //standard library for the servo
 #include <NewPing.h>        //for the Ultrasonic sensor function library.
 
-//L298N motor control pins
+//Chân điều khiển động cơ L298N
 const int LeftMotorForward = 6;
 const int LeftMotorBackward = 7;
 const int RightMotorForward = 5;
